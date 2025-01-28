@@ -5,13 +5,13 @@
 [![Build Status](https://scrutinizer-ci.com/g/carpcai/address-parser/badges/build.png?b=master)](https://scrutinizer-ci.com/g/carpcai/address-parser/build-status/master)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/carpcai/address-parser/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
 
-A PHP library covers PHP 5.4 to 7.3, split an address street to street, states, city, zipcode.
+A PHP library covers PHP 7.0+, split an address street to street, states, city, zipcode.
 
 
 ## Installation
 This project can be installed via Composer:
 ```shell
-$ composer require carpcai/address-parser
+$ composer require jjtredway/address-parser
 ```
 
 ## How to use
